@@ -1,0 +1,137 @@
+.input {
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 8px;
+
+}
+
+.input-search
+{
+    font-size: 16px;
+    width: 500px;
+
+   
+   
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 30px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 30px;
+    padding-left: 15px;
+    
+
+}
+
+
+
+.input-button {
+
+    
+    border-width: 1px;
+    border-style: solid;
+    
+    border-color: rgb(0, 0, 0);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 80px;
+    padding-left: 80px;
+    border-radius: 0px;
+    
+
+
+}
+
+.privacy-text {
+    font-size: 16px;
+    margin-bottom: -50px;
+
+}
+
+
+.text {
+    font-size: 14px;
+    font-weight: lighter;
+   
+    
+}
+
+.signupbtn {
+
+    font-size: 16px;
+    font-weight: bold;
+    
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border: none;
+    border-color: rgb(113, 52, 194);
+    background-color: rgb(79, 79, 206);
+    padding-top: 16px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    padding-bottom: 16px;
+    padding-right: 125px;
+    padding-left: 125px;
+    border-radius: 20px;
+
+}
+
+.profile-pic {
+
+    width: 50px;
+    height: 50px;
+    margin-bottom: -30px;
+    
+    margin-top: 200px;
+    margin-left: -350px;
+    margin-right: 100px;
+    
+    
+    object-fit: cover;
+    margin-right: 300px;
+    vertical-align: middle;
+    border-radius: 25px;
+    margin-right: 5px;
+
+
+}
+
+.text-button {
+
+    font-size: 18px;
+    vertical-align: middle;
+    border: none;
+    margin-top: 200px;
+    margin-left: 10px;
+    margin-right: 100px;
+    margin-bottom: -30px;
+    width: 200px;
+
+}
+
+.tweet-btn {
+
+    background-color: rgb(109, 109, 216);
+
+    color: white;
+    border-radius: 30px;
+    margin-bottom: -30px;
+    margin-top: 200px;
+    margin-left: -20px;
+    margin-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    vertical-align: middle;
+    border: none;
+}
